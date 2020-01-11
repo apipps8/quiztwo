@@ -1,1 +1,24 @@
 @import "bootstrap";
+
+body {
+  background: image_url('hero.jpg');
+    font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
+
+}
+
+.navbar {
+  background: image_url('back.jpg');
+  box-shadow: 0px 1px 3px #2a2a2a;
+}
+
+
+.navbar-inverse .navbar-brand {
+  color: #999999;
+}
+
+.navbar-inverse .navbar-brand {
+  color: #BEDCF5;
+   font-family: "Helvetica Neue", Helvetica, sans-serif;
+  font-weight: 600;
+  letter-spacing: -0.3px;
+}
